@@ -9,3 +9,5 @@ This is a simple web-based weather application that allows users to search for w
 
 ## Future Updates
 This project is planned to be updated with more advanced features in the future.
+[Nav Bar adding in progress]
+[Dark mode adding in progress]
